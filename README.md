@@ -1,5 +1,5 @@
 <h2> ✨ Hola, soy Alan Maggio ✨</h2>
-<img align='right' src="https://github.com/vsosabrandariz/vsosabrandariz/blob/f08ceede5bc43f41b3f745a877c336dc3c5ba683/dibujo_sin_base.png" width="350">
+<img align='right' src="https://github.com/DonMaggio/DonMaggio/blob/main/822.jpg" width="350">
 <p>	🔭Ingeniero Industrial - <em><a href="http://www.utn.edu.ar">Universitad Tecnológica Nacional</a></em></br> ⚡Analista de datos - <em><a href="https://www.linkedin.com/in/alan-maggio/">Mi web</a>
 </em></p>
 
